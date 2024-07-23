@@ -15328,10 +15328,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"codemirror@npm:5.51.0":
-  version: 5.51.0
-  resolution: "codemirror@npm:5.51.0"
-  checksum: 679769310a84b6f638833469566e187a003e0a80df6ff833ccebc25deab9eaac90803929914a0c64479eda295c92303a17d6f1d1cf410f69f0e3b39cb8c2b4f5
+"codemirror@npm:5.58.2":
+  version: 5.58.2
+  resolution: "codemirror@npm:5.58.2"
+  checksum: dc9d51c5c0da7f47e5ed514b2016792ec89ca85d0f1b44742e56ac7f591f0287d16d2be0759cde18dac6f8e54049f5657d65ef0d2f9441c87931d16f0b0e467e
   languageName: node
   linkType: hard
 
@@ -19757,7 +19757,7 @@ __metadata:
     chromatic: ^6.17.4
     circular-dependency-plugin: ^5.2.2
     clsx: 1.1.1
-    codemirror: 5.51.0
+    codemirror: 5.58.2
     concurrently: 5.2.0
     cookie-parser: ^1.4.6
     core-js: ^3.6.5
