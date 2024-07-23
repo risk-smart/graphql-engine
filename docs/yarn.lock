@@ -4609,9 +4609,9 @@ __metadata:
   linkType: hard
 
 "codemirror@npm:^5.65.3":
-  version: 5.65.10
-  resolution: "codemirror@npm:5.65.10"
-  checksum: 393cdd67abf9535a0b01d92a25f5921c7a80f021d8bbea22459b708a61dab373c804788c6d2b4463632f026a603e5e1e746ad5e19324c998c65f7e231ad962fc
+  version: 5.65.17
+  resolution: "codemirror@npm:5.65.17"
+  checksum: 8bc853524c6416826364d776b012f488b3f4736899e5c8026062f43927e09de773051dd1b34e8cfd25642d7e358679ca5b113f0034fdd6a295f4193b04f8c528
   languageName: node
   linkType: hard
 
