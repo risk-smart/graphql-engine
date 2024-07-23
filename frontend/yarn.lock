@@ -19800,7 +19800,7 @@ __metadata:
     graphql-tag: ^2.10.1
     graphql-upload: ^15.0.2
     graphql-voyager: 1.0.0-rc.29
-    highlight.js: 9.15.8
+    highlight.js: 10.4.1
     history: 3.3.0
     hoist-non-react-statics: 1.2.0
     https-browserify: ^1.0.0
@@ -21259,10 +21259,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"highlight.js@npm:9.15.8":
-  version: 9.15.8
-  resolution: "highlight.js@npm:9.15.8"
-  checksum: 8d9f6a5e3cfb2ea52d8d9edd52a58028201ce991358dcfbd068992ee9860dd96667395aea2dbb1234132ed20cb097bd2f0415e0f846c893cdcdcac14fcebd425
+"highlight.js@npm:10.4.1":
+  version: 10.4.1
+  resolution: "highlight.js@npm:10.4.1"
+  checksum: b6b5f6c4ab6f5d2289fa2d2c321759cd0af081daf8586b1c51185a59914804b3062bb66969e38ac0609782cca775ef3060a4f0c38a04c12c668a884117b67531
   languageName: node
   linkType: hard
 
